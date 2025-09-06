@@ -1,35 +1,38 @@
-# 👋 Hi, I'm Siddhi Mishra
+👋 Hi, I'm Siddhi Mishra
 
-🎓 BSc IT Student | 💼 Aspiring Data & Business Analyst  
-📍 Mumbai, India | 
-🌱 Currently working on:
-- Health Monitoring App
+💻 Software Developer | BSc IT Student
+📍 Mumbai, India
 
+🚀 About Me
 
----
+I am a passionate Software Developer with a strong foundation in Full-Stack Development and Mobile App Development.
+I enjoy building scalable applications, solving real-world problems with technology, and continuously learning new tools and frameworks.
 
-## 🚀 Projects
+🎓 Pursuing BSc IT at Mumbai University
 
-- 🔸 [Sales Dashboard (Excel + Power BI)]
-- 🔸 [Online Food Ordering Portal (PHP + MySQL)]
+🌱 Exploring Cloud, Web, and Mobile App Development
 
+💼 Open to internships and software development opportunities
 
-## 📊 Skills
+🛠️ Tech Stack
 
-![Excel](https://img.shields.io/badge/Tool-Excel-blue?style=flat-square)
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?style=flat-square)
-![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue?style=flat-square)
-![Flutter](https://img.shields.io/badge/App-Flutter-blue?style=flat-square)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Language-Python-green?style=flat-square)
+Languages: Java, Python, JavaScript, PHP, Dart
+Frontend: HTML, CSS, Bootstrap, React
+Backend: Node.js, PHP
+Databases: MySQL, MongoDB Atlas, Firebase
+Tools & Platforms: Git, GitHub, Postman, MongoDB Compass, XAMPP
+Mobile Development: Flutter, Android Studio
 
----
+📂 Projects
 
+🔸 BiteBliss
+ – Online food ordering portal with authentication, order tracking & admin panel (PHP + MySQL)
+🔸 MediSafe (Ongoing) – Health monitoring app with authentication, real-time tracking, and API backend (Node.js + MongoDB + Postman + Dart)
 
+📬 Connect with Me
 
----
+📧 Email: reach.siddhii@gmail.com
 
-## 🔗 Connect with Me
+🌐 GitHub: siddhii0
 
-  
-- 📬 Email: reach.siddhii@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/siddhi-mishra-a7a138283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
